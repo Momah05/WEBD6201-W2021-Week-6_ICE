@@ -2,15 +2,15 @@
     "users":
     [
         { 
-          "DisplayName": "Paul George", 
-          "EmailAddress": "pg@example.com",
-          "Username": "PlayoffP",
+          "DisplayName": "John Smith", 
+          "EmailAddress": "john.smith@example.com",
+          "Username": "johnsmith",
           "Password": "123456"
         },
         { 
-            "DisplayName": "Kevin Durant", 
-            "EmailAddress": "kd@example.com",
-            "Username": "kd",
+            "DisplayName": "May Smith", 
+            "EmailAddress": "may.smith@example.com",
+            "Username": "maysmith",
             "Password": "123456"
         },
         { 

@@ -1,0 +1,30 @@
+{
+    "contacts":
+    [
+        {
+            "FullName":"Kevin Durant",
+            "ContactNumber":"4165555556",
+            "EmailAddress":"kd@example.com"
+        },
+        {
+            "FullName":"Danny Green",
+            "ContactNumber":"4165555557",
+            "EmailAddress":"bricks@example.com"
+        },
+        {
+            "FullName":"James Harden",
+            "ContactNumber":"4165555558",
+            "EmailAddress":"freethrows@example.com"
+        },
+        {
+            "FullName":"NBA YoungBoy",
+            "ContactNumber":"4165555559",
+            "EmailAddress":"neverbrokeagain@example.com"
+        },
+        {
+            "FullName":"Anthony Davis",
+            "ContactNumber":"4165555550",
+            "EmailAddress":"ad@example.com"
+        }
+    ]
+}
